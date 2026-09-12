@@ -100,8 +100,17 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 10
     - _DstBlendAlpha: 0
-    - _EmissionStrength: 1.5
+    - _EmissionStrength: 1
     - _EnvironmentReflections: 1
+    - _FlickerChance: 0.85
+    - _FlickerMin: 0.3
+    - _FlickerSpeed: 6
+    - _GlitchLineDensity: 60
+    - _GlitchLineStrength: 0.12
+    - _GlitchLineWidth: 0.08
+    - _GlitchSpeed: 7
+    - _GlitchStrength: 0.018
+    - _GlitchThreshold: 0.94
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -111,6 +120,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _ScanlineDensity: 50
+    - _ScanlineSpeed: 17
+    - _ScanlineStrength: 0.2
+    - _SliceDensity: 30
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
