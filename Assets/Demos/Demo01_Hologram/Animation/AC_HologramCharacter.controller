@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Zombie Reaction Hit
+  m_Name: h22
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -20,7 +20,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: d9f51c78c0785eb4f85f18c375dfa4f9,
+  m_Motion: {fileID: -203655887218126122, guid: 1a8bd0a8387b20043b153c7107fddfdb,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
